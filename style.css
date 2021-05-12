@@ -1,0 +1,95 @@
+.hero-image,
+.second-row ,
+.baloon-div {
+    position: relative;
+    color: white;
+  }
+.hero-image .bottom-left {
+    position: absolute;
+    bottom: 7%;
+    left: 7%;
+  }
+.hero-image .top-left ,
+.second-row .top-left{
+    position: absolute;
+    top: 2%;;
+    left: 5%;
+}
+.hero-image .center-para{
+    position: absolute;
+    top: 20%;
+    left: 4%;
+  }
+.hero-image img.lead1 ,
+.hero-image img.lead2{
+    width:  20vw !important;
+    display:block;
+    padding:5px 0;
+}
+.hero-image .lead3{
+    width:30vw !important;
+    padding:5px;
+}
+.hero-image .lead4-icon{
+    width:20px !important;
+}
+.hero-image .lead4{
+    width: 20vw !important;
+}
+.hero-image p.icon{
+    padding:5px 0;
+}
+.hero-image .bottom-left img{
+    width:7vw !important;
+}
+.hero-image .top-left img{
+    width:15vw !important;
+}
+.second-row .top-left img{
+    width:30vw !important;
+}
+.second-row .center-para{
+    position: absolute;
+    top: 33%;
+    left: 4%;
+}
+img.monitoring {
+    width:6vw !important;
+    position: absolute;
+    left: 5%;
+    top: 13%;
+}
+img.monitoring2 {
+    width: 6vw !important;
+    position: absolute;
+    left: 25%;
+    top: 38%;
+}
+img.monitoring3 {
+    width: 6vw !important;
+    position: absolute;
+    left: 46%;
+    top: 12%;
+}
+img.monitoring4 {
+    width: 6vw !important;
+    position: absolute;
+    left: 68%;
+    top: 32%;
+}
+img.monitoring5 {
+    width: 6vw !important;
+    position: absolute;
+    right: 4%;
+    top: 55%;
+}
+
+img.ballon-image {
+    width:90vw !important;
+}
+img.monitoring6 {
+    width: 20vw !important;
+    position: absolute;
+    right: 1%;
+    top: -19%;
+}
